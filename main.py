@@ -58,5 +58,6 @@ Migrated    :   {migrated}
 Past Names  :   {", ".join(usernames)}
 Available   :   {", ".join(available)}
         ''')
-username = sys.argv[1]
-MCInfo.SearchUser(username)
+
+
+MCInfo.SearchUser("username")
