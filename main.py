@@ -58,6 +58,3 @@ Migrated    :   {migrated}
 Past Names  :   {", ".join(usernames)}
 Available   :   {", ".join(available)}
         ''')
-
-
-MCInfo.SearchUser("username")
