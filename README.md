@@ -8,3 +8,12 @@ username = "VVSTheGod"
 results = MCInfo.SearchUser(username)
 ```
 
+# ToDo List
+```
+UID Grab                ✔️
+Past Username Grab      ✔️
+Available Username Grab ✔️
+Account Migration Check ✔️
+Database Lookup         ❌
+```
+
