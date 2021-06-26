@@ -1,7 +1,7 @@
 # inspired by HellSec : https://github.com/rpie/MCInfo
 # recreated and turned into a library by vvs [#SpookySquad]
 
-import requests, sys, json 
+import requests, json 
 from colorama import Fore
 
 g = Fore.GREEN
